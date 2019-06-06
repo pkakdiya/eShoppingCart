@@ -1,0 +1,11 @@
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\obj\Debug\eshoppingcart.Repository.csprojAssemblyReference.cache
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\obj\Debug\eshoppingcart.Repository.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\bin\Debug\eshoppingcart.Repository.dll
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\bin\Debug\eshoppingcart.Repository.pdb
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\bin\Debug\eShoppingcart.DataAccess.dll
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\bin\Debug\eShoppingcart.Model.dll
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\bin\Debug\eShoppingcart.DataAccess.pdb
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\bin\Debug\eShoppingcart.Model.pdb
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\obj\Debug\eshoppingcart.Repository.csproj.CopyComplete
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\obj\Debug\eshoppingcart.Repository.dll
+C:\Priyank\MyWork\eShoppingCart\eshoppingcart.Repository\obj\Debug\eshoppingcart.Repository.pdb

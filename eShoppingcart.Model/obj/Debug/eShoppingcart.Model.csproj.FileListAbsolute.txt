@@ -1,0 +1,5 @@
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.Model\bin\Debug\eShoppingcart.Model.dll
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.Model\bin\Debug\eShoppingcart.Model.pdb
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.Model\obj\Debug\eShoppingcart.Model.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.Model\obj\Debug\eShoppingcart.Model.dll
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.Model\obj\Debug\eShoppingcart.Model.pdb

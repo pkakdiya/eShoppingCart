@@ -1,0 +1,9 @@
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\obj\Debug\eShoppingcart.DataAccess.csprojAssemblyReference.cache
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\obj\Debug\eShoppingcart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\bin\Debug\eShoppingcart.DataAccess.dll
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\bin\Debug\eShoppingcart.DataAccess.pdb
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\bin\Debug\eShoppingcart.Model.dll
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\bin\Debug\eShoppingcart.Model.pdb
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\obj\Debug\eShoppingcart.DataAccess.csproj.CopyComplete
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\obj\Debug\eShoppingcart.DataAccess.dll
+C:\Priyank\MyWork\eShoppingCart\eShoppingcart.DataAccess\obj\Debug\eShoppingcart.DataAccess.pdb
